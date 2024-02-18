@@ -15,7 +15,7 @@
 * A simple DL workflow on kubernetes(K8S GCP) using Docker :  [link](https://github.com/srushti98/ml-kubernetes-mnist)
 
 #### Software Projects:
-* Mentors-Students communcation port (a full-stack application using Java, JSP, MySQL) : [link](https://github.com/srushti98/Mentors-Student-Bridge-Portal)
+* Mentors-Students communcation portal (a full-stack application using Java, JSP, MySQL) : [link](https://github.com/srushti98/Mentors-Student-Bridge-Portal)
 * Activity Management Portal for Professors (a web application using Node.js, Vue.js, MongoDB) : [link](https://github.com/srushti98/Teachers-Activity-Management-System-Nodejs)
 
 
