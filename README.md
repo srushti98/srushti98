@@ -5,7 +5,7 @@
 - 🌱 I've recently worked on building LLM based applications and on foundational model in AI in Healthcare space.
 - 👯 Currently exploring LLM wrappers, vector databases, tools for building LLMs based applications [:Latest work](https://github.com/srushti98/langchain-project-basic).
 - I am interested and learning ML systems, ML infra, cuda programming [:course link](https://nyu-mlsys.github.io) and Big Data tools Spark and Hadoop [:course link](https://cs.nyu.edu/courses/spring24/CSCI-GA.2437-001/)
-- I am always looking to learn something new and work on challenging projects!
+- I am always looking to learn something new and working on challenging projects!
 - Feel free to reach out to me: [linkedin profile](https://www.linkedin.com/in/srushti-pawar-783b91166) , [email](sxp8182@nyu.edu), [website: https://srushti98.github.io](https://srushti98.github.io)
 
 ### Recent Projects:
