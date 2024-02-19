@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm pursuing Masters in Computer Science in NYU Courant Institute of Mathematical Sciences.
+- I'm pursuing Masters in Computer Science in NYU Courant Institute of Mathematical Sciences, I worked as ML Specialist @NYU AIFSR lab(Fall'23)
 - 🔭 I have previously worked as a **Software Engineer** and **Data Engineer**.
 - 🌱 I've recently worked on building LLM based applications and on foundational model in AI in Healthcare space.
 - 👯 Currently exploring LLM wrappers, vector databases, tools for building LLMs based applications [:Latest work](https://github.com/srushti98/langchain-project-basic).
