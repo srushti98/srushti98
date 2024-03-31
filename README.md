@@ -12,6 +12,7 @@
 ### Recent Projects:
 * LLM based application to convert Text-> Knowledge Graph [Django + React] : [link](https://github.com/adithyaiyer1999/text2knowledgeGraph)  
 * MedSLIP - extended MedCLIP for mammograms classifications with SLIP objective : [link](https://github.com/srushti98/Med-SLIP-a-combination-of-MedCLIP-and-SLIP)
+* FocusGPT - a chrome based extension to prompt web pages you visit and get a systematic summary over email. [link](https://github.com/adithyaiyer1999/anthropology)
 
 ### DL app deployment on Kubernetes:
 * A simple DL workflow on kubernetes(K8S GCP) using Docker :  [link](https://github.com/srushti98/ml-kubernetes-mnist)
